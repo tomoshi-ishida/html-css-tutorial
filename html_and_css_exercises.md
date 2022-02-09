@@ -15,12 +15,12 @@ GitHub Pages in its settings)
     decreases the browser window
 
     ```css
-      /* 
+      /*
         Include in CSS file.
       */
       .flex-container {
           display: flex;
-          flex-wrap: nowrap;
+          flex-wrap: wrap;
           background-color: orange;
         }
 
@@ -35,7 +35,7 @@ GitHub Pages in its settings)
     ```
 
     ```html
-      <!-- 
+      <!--
         Include in html file.
       -->
       <h1>A CSS flexbox</h1>
